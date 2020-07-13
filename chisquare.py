@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+version: 0.0
+"""
 
 from scipy.stats import chisquare
 from typing import List
